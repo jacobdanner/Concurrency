@@ -1,4 +1,4 @@
-package net.callmeike.android.demo.concurrent.puzzlers.aux;
+package net.callmeike.android.demo.concurrent.puzzlers.xtra;
 import net.callmeike.android.demo.concurrent.puzzlers.Path;
 
 public class PathLogger implements Runnable {

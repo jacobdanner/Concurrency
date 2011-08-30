@@ -1,4 +1,4 @@
-package net.callmeike.android.demo.concurrent.puzzlers.aux;
+package net.callmeike.android.demo.concurrent.puzzlers.xtra;
 import java.util.Calendar;
 import java.util.List;
 

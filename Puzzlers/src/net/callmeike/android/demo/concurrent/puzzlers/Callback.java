@@ -1,5 +1,5 @@
 package net.callmeike.android.demo.concurrent.puzzlers;
-import net.callmeike.android.demo.concurrent.puzzlers.aux.Service;
+import net.callmeike.android.demo.concurrent.puzzlers.xtra.Service;
 
 public class Callback {
     public static void main(String[] args) {

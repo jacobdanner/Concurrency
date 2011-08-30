@@ -5,8 +5,8 @@ import java.util.Collections;
 import java.util.GregorianCalendar;
 import java.util.List;
 
-import net.callmeike.android.demo.concurrent.puzzlers.aux.FindBirthdays;
-import net.callmeike.android.demo.concurrent.puzzlers.aux.FindHolidays;
+import net.callmeike.android.demo.concurrent.puzzlers.xtra.FindBirthdays;
+import net.callmeike.android.demo.concurrent.puzzlers.xtra.FindHolidays;
 
 public class SafeList<T> {
     public static void main(String[] args) {

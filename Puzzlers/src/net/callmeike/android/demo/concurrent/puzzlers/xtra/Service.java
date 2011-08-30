@@ -1,6 +1,6 @@
 /* $Id: $
  */
-package net.callmeike.android.demo.concurrent.puzzlers.aux;
+package net.callmeike.android.demo.concurrent.puzzlers.xtra;
 
 
 /**

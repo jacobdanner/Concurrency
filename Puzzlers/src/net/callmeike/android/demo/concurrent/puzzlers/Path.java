@@ -2,7 +2,8 @@ package net.callmeike.android.demo.concurrent.puzzlers;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-import net.callmeike.android.demo.concurrent.puzzlers.aux.PathLogger;
+
+import net.callmeike.android.demo.concurrent.puzzlers.xtra.PathLogger;
 
 public class Path {
     public static void main(String[] args) {
