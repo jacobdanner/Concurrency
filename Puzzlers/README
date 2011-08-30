@@ -1,0 +1,2 @@
+To create an eclipse project, copy tools/ide/eclipse/[project,classpath]
+to ./.project and ./.classpath respectively.
